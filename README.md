@@ -2,7 +2,7 @@
 ## Step 1 - Provision Azure Machine Learning Workspace
 ## Step 2 - Git Clone from Azure Example
 
-`git clone https://github.com/Azure/azureml-examples --depth 1`
+git clone https://github.com/Azure/azureml-examples --depth 1
 cd azureml-examples/cli/endpoints/online/triton/single-model
 
 ## Step 3 - Create Endpoint
